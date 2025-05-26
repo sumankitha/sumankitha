@@ -10,7 +10,7 @@
 
 ## 📖 About Me
 
-- 🔭 I’m currently working on *Image Classification Projects using Python*
+- 🔭 I’m currently working on *AI Image Classifier Project using Python*
 - 🌱 I’m learning more about *Computer Vision and Deep Learning*
 - 👯 I’m looking to collaborate on **AI/ML Projects **
 - 💬 Ask me about *Python, Machine Learning, and Git*
